@@ -38,6 +38,22 @@ ul li.active a{
     width: 150px;
     height:auto;
 }
+.logo{
+    position: relative;
+}
+.logo p{
+    visibility: hidden;
+    color: #fff;
+}
+.logo:hover{
+     cursor: pointer;
+}
+.logo:hover p{
+visibility: visible;
+}
+
+
+
 .main{
     max-width: 1200px;
     margin: auto;
