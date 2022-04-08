@@ -1,6 +1,15 @@
+*{
+    background-color: bisque;
+    text-align: right;
+}
+.li a{
+    text-align: right;
+
+}
 .table{
     width: 5.5cm;
     height: 7cm;
+    padding: 40px;
 }
 .th{
     text-align: left;
@@ -19,4 +28,8 @@ tr:nth-child(even){
 }
 tr:nth-child(odd){
     background-color: #ddd;
+}
+.a button{
+    text-align: center;
+    text-decoration-color: aqua;
 }

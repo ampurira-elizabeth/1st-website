@@ -1,0 +1,12 @@
+*{
+    background-color: bisque;
+}
+.li a{
+    text-align: right;
+    text-decoration: solid;
+
+}
+.div{
+    align-items: center;
+    padding: 500px;
+}

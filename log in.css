@@ -1,0 +1,28 @@
+*{
+   background-color: bisque;
+
+
+}
+section{
+    position: relative;
+     display: flex;
+}
+
+.contentbx{
+    text-align: center;
+    border: solid red 5px;
+    margin-left: 8cm;
+    margin-top: 2cm;
+    padding: 4cm;
+}
+h2{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: medium;
+}
+section.contentbx.formbx.inputbx input[ type="submit"]{
+    background: #ff4584;
+    color: #fff;
+}
